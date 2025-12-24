@@ -1,0 +1,67 @@
+{
+  "page_type": "faq",
+  "product": "GlowBoost Vitamin C Serum",
+  "generated_at": "2025-12-24T00:00:00Z",
+  "questions": [
+    {
+      "id": "q1",
+      "category": "Informational",
+      "question": "What is GlowBoost Vitamin C Serum and what concentration does it contain?",
+      "answer": "GlowBoost Vitamin C Serum contains 10% Vitamin C and is formulated to brighten skin and fade dark spots."
+    },
+    {
+      "id": "q2",
+      "category": "Usage",
+      "question": "How should I use GlowBoost Vitamin C Serum?",
+      "answer": "Apply 2–3 drops in the morning on clean skin before applying sunscreen."
+    },
+    {
+      "id": "q3",
+      "category": "Safety",
+      "question": "Are there any side effects I should expect?",
+      "answer": "Some users with sensitive skin may experience mild tingling. Discontinue use if irritation persists and consult a dermatologist."
+    },
+    {
+      "id": "q4",
+      "category": "Ingredients",
+      "question": "What are the key ingredients in GlowBoost?",
+      "answer": "Key ingredients listed are Vitamin C and Hyaluronic Acid, which support brightening and hydration respectively."
+    },
+    {
+      "id": "q5",
+      "category": "Purchase",
+      "question": "What is the price of GlowBoost Vitamin C Serum?",
+      "answer": "The listed price is ₹699."
+    },
+    {
+      "id": "q6",
+      "category": "Comparison",
+      "question": "How does GlowBoost compare to other Vitamin C serums?",
+      "answer": "GlowBoost has a 10% Vitamin C concentration and includes Hyaluronic Acid for hydration; comparison varies by competitor concentration and ingredient list."
+    },
+    {
+      "id": "q7",
+      "category": "Usage",
+      "question": "Can I use GlowBoost with sunscreen?",
+      "answer": "Yes. The serum should be applied in the morning before sunscreen."
+    },
+    {
+      "id": "q8",
+      "category": "Safety",
+      "question": "Is GlowBoost suitable for oily or combination skin?",
+      "answer": "The product lists suitability for Oily and Combination skin types."
+    },
+    {
+      "id": "q9",
+      "category": "Informational",
+      "question": "What benefits does GlowBoost claim to offer?",
+      "answer": "The product states Brightening and Fades dark spots as primary benefits."
+    },
+    {
+      "id": "q10",
+      "category": "Ingredients",
+      "question": "Does GlowBoost contain Hyaluronic Acid?",
+      "answer": "Yes, Hyaluronic Acid is listed as a key ingredient."
+    }
+  ]
+}

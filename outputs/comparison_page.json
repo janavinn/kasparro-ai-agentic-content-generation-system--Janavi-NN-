@@ -1,0 +1,49 @@
+{
+  "page_type": "comparison_page",
+  "left_product": {
+    "name": "GlowBoost Vitamin C Serum",
+    "concentration": "10% Vitamin C",
+    "key_ingredients": ["Vitamin C", "Hyaluronic Acid"],
+    "benefits": ["Brightening", "Fades dark spots"],
+    "price": { "currency": "INR", "amount": 699, "display": "₹699" }
+  },
+  "right_product": {
+    "name": "RadiantPure Vitamin C Serum (Fictional Product B)",
+    "concentration": "12% Vitamin C",
+    "key_ingredients": ["Vitamin C", "Niacinamide"],
+    "benefits": ["Brightening", "Hydration"],
+    "price": { "currency": "INR", "amount": 749, "display": "₹749" }
+  },
+  "comparison_table": {
+    "rows": [
+      {
+        "field": "Concentration",
+        "left": "10% Vitamin C",
+        "right": "12% Vitamin C"
+      },
+      {
+        "field": "Key Ingredients",
+        "left": ["Vitamin C", "Hyaluronic Acid"],
+        "right": ["Vitamin C", "Niacinamide"]
+      },
+      {
+        "field": "Benefits",
+        "left": ["Brightening", "Fades dark spots"],
+        "right": ["Brightening", "Hydration"]
+      },
+      {
+        "field": "Suitable Skin Types",
+        "left": ["Oily", "Combination"],
+        "right": ["Dry", "Normal"]
+      },
+      {
+        "field": "Price",
+        "left": "₹699",
+        "right": "₹749"
+      }
+    ]
+  },
+  "summary_recommendation": {
+    "tl;dr": "GlowBoost offers a 10% Vitamin C formula with Hyaluronic Acid at a lower price point (₹699). Product B (RadiantPure) has a slightly higher Vitamin C concentration (12%) and includes Niacinamide but is priced higher (₹749). Choose GlowBoost if you prefer a formulation with hydration support and a lower price; choose Product B if you prefer a higher concentration and Niacinamide."
+  }
+}
