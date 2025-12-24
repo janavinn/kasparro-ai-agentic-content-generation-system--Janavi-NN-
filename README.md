@@ -1,24 +1,22 @@
 # Kasparro — Agentic Content Generation System
-Author: Janavi (MCA Student)
+Author: Janavi N N (MCA Student)
 
-Hi — I’m Janavi. This repo shows a small agent-based pipeline I built for the Kasparro Applied AI assignment. I focused on simple, maintainable code and machine-readable outputs that follow a clear data flow.
+Hi — I’m Janavi. This repository implements a modular, agent-based content generation pipeline built for the Kasparro Applied AI assignment. The focus is on system design, agent boundaries, orchestration flow, and clean, machine-readable outputs — not on UI or prompt engineering.
 
-What this repo contains
-- docs/projectdocumentation.md — problem, design, assumptions, agent boundaries
-- outputs/faq.json — FAQ page (machine-readable)
-- outputs/product_page.json — Product page (machine-readable)
-- outputs/comparison_page.json — Comparison page (GlowBoost vs fictional Product B)
+## What this repo contains
+- docs/projectdocumentation.md — problem statement, system design, assumptions, and agent responsibilities
+- outputs/faq.json — generated FAQ page (machine-readable)
+- outputs/product_page.json — generated product description page (machine-readable)
+- outputs/comparison_page.json — generated comparison page (GlowBoost vs fictional Product B)
 
-How I worked
-- I used a pipeline approach: parse input → generate questions & content blocks → render templates → export JSON.
-- Agents are designed as separate, single-responsibility components to keep the system modular and easy to extend.
-- I used only the provided GlowBoost product data and a fictional Product B for comparison.
+## System approach
+- The system follows a pipeline flow:
+  parse input → generate questions & content blocks → apply templates → export structured JSON
+- Each agent has a single responsibility and well-defined input/output.
+- A central orchestrator coordinates agent execution.
+- Content logic is implemented as reusable transformation blocks.
+- No external data or research is used beyond the provided product dataset.
 
-How to submit (what I will do now)
-1. Copy this repo URL and paste it into the Google Form: https://forms.gle/c4GasigTr5hutF4H8
-2. Reply to Kasparro email with my name and confirmation that I’m attempting the assignment.
-
-If you want to run or extend this later
-- I can add a minimal Python runner (src/) that demonstrates the agents and regenerates the outputs.
-
-Thanks — Janavi
+## Notes
+- This is a systems design and automation project, not a UI or prompting exercise.
+- The architecture is designed to be easily extensible with additional agents or templates.
