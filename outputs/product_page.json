@@ -1,0 +1,62 @@
+{
+  "page_type": "product_page",
+  "product": {
+    "name": "GlowBoost Vitamin C Serum",
+    "concentration": "10% Vitamin C",
+    "skin_types": ["Oily", "Combination"],
+    "key_ingredients": ["Vitamin C", "Hyaluronic Acid"],
+    "benefits": ["Brightening", "Fades dark spots"],
+    "how_to_use": "Apply 2–3 drops in the morning before sunscreen",
+    "side_effects": "Mild tingling for sensitive skin",
+    "price": {
+      "currency": "INR",
+      "amount": 699,
+      "display": "₹699"
+    }
+  },
+  "hero_summary": {
+    "short": "10% Vitamin C serum with Hyaluronic Acid — brightens skin and helps fade dark spots. Suitable for oily and combination skin.",
+    "highlights": [
+      "10% Vitamin C concentration",
+      "Includes Hyaluronic Acid for hydration",
+      "Formulated for Oily and Combination skin types",
+      "Price: ₹699"
+    ]
+  },
+  "content_blocks": {
+    "benefits_block": {
+      "title": "Benefits",
+      "bullets": [
+        "Brightening — supports a more radiant complexion",
+        "Helps fade dark spots over consistent use"
+      ],
+      "summary": "GlowBoost focuses on brightening and reducing pigmentation concerns."
+    },
+    "ingredients_block": {
+      "title": "Key Ingredients",
+      "items": [
+        {
+          "name": "Vitamin C",
+          "role": "Active brightening ingredient"
+        },
+        {
+          "name": "Hyaluronic Acid",
+          "role": "Hydration and skin plumping"
+        }
+      ]
+    },
+    "usage_block": {
+      "title": "How to Use",
+      "instructions": "Apply 2–3 drops in the morning before sunscreen.",
+      "notes": "Introduce gradually if you have sensitive skin; patch-test if unsure."
+    },
+    "safety_block": {
+      "title": "Safety & Side Effects",
+      "text": "May cause mild tingling in sensitive skin. Stop if severe irritation occurs."
+    },
+    "purchase_block": {
+      "title": "Price",
+      "text": "₹699"
+    }
+  }
+}
